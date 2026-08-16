@@ -47,6 +47,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/PausePage.unity
     guid: c7c79422712cc594fa48531169d1dcd9
+  - enabled: 1
+    path: Assets/Scene/Add_Achievement.unity
+    guid: 7a90fa61aa2ddb0409a2d26588d266cc
+  - enabled: 1
+    path: Assets/Scene/Minus_Achievement.unity
+    guid: c8e7163cd5d72ae49b5a4df7e9272374
+  - enabled: 1
+    path: Assets/Scene/Multiply_Achievement.unity
+    guid: 1e1549c957a78684783dc8b4f734c90f
+  - enabled: 1
+    path: Assets/Scene/Divide_Achivement.unity
+    guid: ead7b3af5d1388340be05b739aa1c87b
+  - enabled: 1
+    path: Assets/Scene/Lose.unity
+    guid: 0b006031c8c72eb4a9f665e025348d37
+  - enabled: 1
+    path: Assets/Scene/Win.unity
+    guid: c42bf4ed33af426479209d878614c9fb
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 3e58af0f784350342af81c25109c7c84, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e38b2b52a929b8e468b79a0228a1a480, type: 2}
